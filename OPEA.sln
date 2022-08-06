@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPEA.ClienteAPI", "OPEA.ClienteAPI\OPEA.ClienteAPI.csproj", "{0B3E0730-57C8-4B55-8CE7-82BBB382DD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3E0730-57C8-4B55-8CE7-82BBB382DD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3E0730-57C8-4B55-8CE7-82BBB382DD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3E0730-57C8-4B55-8CE7-82BBB382DD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3E0730-57C8-4B55-8CE7-82BBB382DD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96E7487-B5DB-4A29-A4E5-9BD2D9952790}
+	EndGlobalSection
+EndGlobal
